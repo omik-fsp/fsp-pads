@@ -2,23 +2,21 @@
 # https://stackoverflow.com/questions/509211/understanding-pythons-slice-notation/509295#509295
 
 
-def palindrome(str):
+def palindrome(stringToCheck):
 
     toCompare = ''
 
     # casefold() Returns a version of the string suitable for caseless comparisons.
-    str = str.casefold()
-
     # strip all non alphanumerics
-    for char in str:
+    for char in stringToCheck.casefold():
         if char.isalnum():
             toCompare = toCompare + char
 
     # compare to reverse
     if toCompare == toCompare[::-1]:
-        print(toCompare + ': A palindrome')
+        print(stringToCheck + ': A palindrome')
     else:
-        print(toCompare + ': Not a palindrome')
+        print(stringToCheck + ': Not a palindrome')
 
 
 palindrome('RFfeS')
