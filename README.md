@@ -2,10 +2,10 @@
 
 Porting FreeCodeCamp Algorithm and Data Structures Certification Challenges from JS to Python.
 
-* Palindrome Checker. [link](#)
-* Roman Numeral Converter. [link](#)
-* Caesars Cipher. [link](#)
-* Phone Number Validator. [link](#)
-* Cash Register. [link](#)
+* [Palindrome Checker](https://github.com/omik-fsp/fsp-pads/blob/master/palindrome-checker).
+* [Roman Numeral Converter](#).
+* [Caesars Cipher](#).
+* [Phone Number Validator](#).
+* [Cash Register](#).
 
 You can check my original Challenges [here](https://omik-fcc.github.io).
