@@ -5,6 +5,6 @@ Porting FreeCodeCamp Algorithm and Data Structures Certification Challenges from
 * [Palindrome Checker](https://github.com/omik-fsp/fsp-pads/blob/master/palindrome-checker.py)
 * [Roman Numeral Converter](https://github.com/omik-fsp/fsp-pads/blob/master/convert-to-roman.py)
 * [Caesars Cipher](https://github.com/omik-fsp/fsp-pads/blob/master/rot13.py)
-* [Phone Number Validator](#)
+* [Phone Number Validator](https://github.com/omik-fsp/fsp-pads/blob/master/phone-validator.py)
 
 You can check my original Challenges [here](https://omik-fcc.github.io).
