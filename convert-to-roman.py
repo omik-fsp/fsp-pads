@@ -36,8 +36,8 @@ def convertToRoman(num):
             result = result + i
             num = num - romanDict[i]
 
-    print(str(origNum) + ' in Roman Numerals is: ' + str(result))
+    return result
 
 
-convertToRoman(20)
-convertToRoman(2018)
+print(convertToRoman(20))
+print(convertToRoman(2018))
